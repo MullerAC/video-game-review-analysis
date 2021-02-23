@@ -131,4 +131,4 @@ dmypy.json
 # other
 config.py
 glove.*
-reviews_bigrams.feather
+data/processed/
