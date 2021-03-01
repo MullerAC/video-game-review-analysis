@@ -13,6 +13,7 @@ def remove_markdown(x):
     # todo: check if tag is a link, and remove url in parenthesis
     # and keep the text in the brackets (without the brackets)
     # link format: [text to keep](www.urltoremove.com)
+    # remove links as well
     return sub(r'\[.*?\]', '', x)
     
 def remove_punctuation(x):
