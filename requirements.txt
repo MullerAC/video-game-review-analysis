@@ -15,7 +15,7 @@ cffi==1.14.5
 chances==0.1.9
 chardet==3.0.4
 click==7.1.2
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+# colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
 cycler==0.10.0
 Cython==0.29.14
 dataclasses==0.6
@@ -41,14 +41,14 @@ gunicorn==20.0.4
 h5py==2.10.0
 idna==2.10
 importlib-metadata==3.4.0
-ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1598883894321/work
+# ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
+# ipython @ file:///C:/ci/ipython_1598883894321/work
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1611315820849/work
+# jedi @ file:///C:/ci/jedi_1611315820849/work
 Jinja2==2.11.3
 joblib==1.0.1
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+# jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-core==4.6.3
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
@@ -65,20 +65,20 @@ numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
 pandas==1.2.2
-parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+# parso @ file:///tmp/build/80754af9/parso_1596826841367/work
 patsy==0.5.1
-pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+# pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
 Pillow==8.1.0
 praw==7.2.0
 prawcore==2.0.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+# prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 protobuf==3.14.0
 pyarrow==3.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycares==3.1.1
 pycparser==2.20
-Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+# Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
 pyLDAvis==3.2.1
 pyparsing==2.4.7
 PySocks==1.7.1
@@ -110,12 +110,12 @@ termcolor==1.1.0
 threadpoolctl==2.1.0
 tornado==6.0.4
 tqdm==4.56.2
-traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+# traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
 twint @ git+https://github.com/twintproject/twint.git@4b30fa33991ccdf89c77471382daad3d3bc8c988
 typing-extensions==3.7.4.3
 update-checker==0.18.0
 urllib3==1.26.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+# wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 websocket-client==0.57.0
 Werkzeug==1.0.1
 wincertstore==0.2
