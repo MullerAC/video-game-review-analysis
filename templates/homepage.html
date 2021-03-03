@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <title>Video Game Review Analysis</title>
+    </head>
+    <body>
+        <h1 style="text-align:center;">Video Game Review Analysis</h1>
+        <h5 style="text-align:center;">Insert a Reddit url or Twitter hashtag to perform analysis:</h5>
+        
+        <form method="POST" style="text-align:center;">
+            <input type="text" name="search" width="800"><br>
+            <input type="submit" value="submit"><br>
+        </form>
+        
+        <div>
+            Twitter examples:
+            <ul>
+                {% for item in data['twitter'] %}
+                <li>{{item}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div>
+            Reddit examples:
+            <ul>
+                {% for item in data['reddit'] %}
+                <li>{{item}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </body>
+</html>

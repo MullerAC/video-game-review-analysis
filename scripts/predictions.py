@@ -1,7 +1,8 @@
-from config import reddit_api
+from scripts.config import reddit_api
+from scripts import preprocessing
+
 from keras.models import load_model
 import pandas as pd
-import preprocessing
 from pickle import load
 from praw import Reddit
 import twint
