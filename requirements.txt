@@ -1,0 +1,126 @@
+absl-py==0.11.0
+aiodns==2.0.0
+aiohttp==3.7.3
+aiohttp-socks==0.5.5
+astetik==1.11.1
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs==20.3.0
+backcall==0.2.0
+beautifulsoup4==4.9.3
+cachetools==4.2.1
+cchardet==2.1.7
+certifi==2020.6.20
+cffi==1.14.5
+chances==0.1.9
+chardet==3.0.4
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cycler==0.10.0
+Cython==0.29.14
+dataclasses==0.6
+decorator==4.4.2
+elasticsearch==7.11.0
+fake-useragent==0.1.11
+feather-format==0.4.1
+Flask==1.1.2
+flatbuffers==1.12
+funcy==1.15
+future==0.18.2
+gast==0.3.3
+gensim==3.8.3
+geographiclib==1.50
+geonamescache==1.2.0
+geopy==2.1.0
+google-auth==1.26.1
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+googletransx==2.4.2
+grpcio==1.32.0
+gunicorn==20.0.4
+h5py==2.10.0
+idna==2.10
+importlib-metadata==3.4.0
+ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1598883894321/work
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1611315820849/work
+Jinja2==2.11.3
+joblib==1.0.1
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+kerasplotlib==0.1.6
+kiwisolver==1.3.1
+Markdown==3.3.3
+MarkupSafe==1.1.1
+matplotlib==3.3.4
+multidict==5.1.0
+nest-asyncio==1.5.1
+nltk==3.5
+numexpr==2.7.2
+numpy==1.19.5
+oauthlib==3.1.0
+opt-einsum==3.3.0
+pandas==1.2.2
+parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+patsy==0.5.1
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+Pillow==8.1.0
+praw==7.2.0
+prawcore==2.0.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.14.0
+pyarrow==3.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycares==3.1.1
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyLDAvis==3.2.1
+pyparsing==2.4.7
+PySocks==1.7.1
+python-dateutil==2.8.1
+python-socks==1.2.1
+pytz==2021.1
+pywin32==227
+PyYAML==5.4.1
+pyzmq==19.0.2
+regex==2020.11.13
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.1
+schedule==1.0.0
+scikit-learn==0.24.1
+scipy==1.2.0
+seaborn==0.11.1
+six==1.15.0
+sklearn==0.0
+smart-open==4.2.0
+soupsieve==2.2
+statsmodels==0.12.2
+talos==1.0
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+threadpoolctl==2.1.0
+tornado==6.0.4
+tqdm==4.56.2
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+twint @ git+https://github.com/twintproject/twint.git@4b30fa33991ccdf89c77471382daad3d3bc8c988
+typing-extensions==3.7.4.3
+update-checker==0.18.0
+urllib3==1.26.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+websocket-client==0.57.0
+Werkzeug==1.0.1
+wincertstore==0.2
+wordcloud==1.8.1
+wrangle==0.6.7
+wrapt==1.12.1
+yarl==1.6.3
+zipp==3.4.0
