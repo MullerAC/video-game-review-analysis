@@ -1,5 +1,5 @@
-__pycache__/
-.ipynb_checkpoints/
-data/
-notebooks/
-visualizations/
+/__pycache__
+/.ipynb_checkpoints
+/data
+/notebooks
+/visualizations
