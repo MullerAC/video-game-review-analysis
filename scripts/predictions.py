@@ -1,7 +1,7 @@
 from scripts.config import reddit_api
 from scripts import preprocessing
 
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import pandas as pd
 from pickle import load
 from praw import Reddit
