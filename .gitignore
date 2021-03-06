@@ -132,4 +132,4 @@ dmypy.json
 config.py
 glove.*
 data/processed/
-final_model/
+final_model/rnn-embeddings
