@@ -1,15 +1,16 @@
 from scripts.config import reddit_api
 from scripts import preprocessing
 
-from tensorflow.keras.models import load_model
+#from tensorflow.keras.models import load_model
 import pandas as pd
 from pickle import load
 from praw import Reddit
 import twint
 
-model = load_model('final_model/model.h5')
-model.load_weights('final_model/model_weights.h5')
-vectorizer = load(open('final_model/vectorizer.pk', 'rb'))
+#model = load_model('final_model/model.h5')
+#model.load_weights('final_model/model_weights.h5')
+model = load(open('final_model/sklearn-logreg/model.pk', 'rb'))
+vectorizer = load(open('final_model/sklearn-logreg/vectorizer.pk', 'rb'))
 
 def get_tweets(search, limit=1000): # get ~1000 most recent tweets from hashtag
     c = twint.Config()
