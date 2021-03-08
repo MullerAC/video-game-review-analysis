@@ -42,7 +42,6 @@ def make_bigrams(x):
         for j in range(i, i+n):
             gram.append(x[j])
         grams.append(' '.join(gram))
-
     return x + grams
     
 def remove_stopwords(x):
@@ -53,6 +52,5 @@ def remove_stopwords(x):
 def unsplit(x):
     # recombines list of strings into single string
     # needed for TF-IDF vectorizer
-    # not needed with doc2vec
-    # do not use with make_bigrams
+    # not needed with doc2vec or make_bigrams
     return ' '.join(x)
