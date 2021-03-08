@@ -30,7 +30,7 @@ Many of the most common words are used in both classes. Words like "game" and "p
 
 Logistic regression, random forest, and multinomial naive bayes models were trained on the training data. The accuracy of predictions on the testing data is used to determine the success of the models. I also performed a grid search on the logistic regression and random forest models. I tested them using the tf-idf with bigrams data, as that performed the best on a sample dataset I had tested this process on.
 
-insert results table here
+![base-models-results](./visualizations/base-models-results.png)
 
 ## Neural Networks
 
