@@ -1,5 +1,7 @@
 # Video Game Review Analysis
 
+NLP Classification with Machine Learning and Neural Networks
+
 Andrew Muller
 
 ## Business Case
