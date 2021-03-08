@@ -6,11 +6,11 @@ Andrew Muller
 
 ## Business Case
 
-This goal of this project is to create a model that can predict sentiment of internet talk about video games. Specifically, it will be a neural network model trained on Steam reviews. The reviews are marked either "suggested" or "not suggested", coresponding to a results classification of "positive" or "negative". Eventually, the project will result in a website that, when supplied with a Twitter hashtag or Reddit thread, will analyze the sentiment of the related comments.
+This goal of this project is to create a model that can predict sentiment of internet talk about video games. Specifically, it will be a neural network model trained on Steam reviews. The reviews are marked either "suggested" or "not suggested", corresponding to a results classification of "positive" or "negative". Eventually, the project will result in a website that, when supplied with a Twitter hashtag or Reddit thread, will analyze the sentiment of the related comments.
 
 ## Data Collection
 
-The data is user reviews collected from Steam. Steam user reviews are available for any Steam user to write. They are labeles are either "suggested" or "not suggested" (referring to the game they are about), and can be voted as "helpful" or "unhelpful" by other Steam users. Notebook 1 reads the id's for the top 750 most popular games on Steam, and gets the 100 most helpful reviews from each. The helpful reviews are chosen because they are more likely to contain meaningful text in English characters that can be interpereted by the models. The end result is 73,096 reviews, as some of the games have less than 100 reviews.
+The data is user reviews collected from Steam. Steam user reviews are available for any Steam user to write. They are labeled are either "suggested" or "not suggested" (referring to the game they are about), and can be voted as "helpful" or "unhelpful" by other Steam users. Notebook 1 reads the id's for the top 750 most popular games on Steam, and gets the 100 most helpful reviews from each. The helpful reviews are chosen because they are more likely to contain meaningful text in English characters that can be interpreted by the models. The end result is 73,096 reviews, as some of the games have less than 100 reviews.
 
 ## Data Processing
 
