@@ -4,7 +4,7 @@
 
 Andrew Muller
 
-![Video Demo](https://www.loom.com/share/658c27924e4c4d71a0896b5e9d60ebae)
+[Video Demo](https://www.loom.com/share/658c27924e4c4d71a0896b5e9d60ebae)
 
 ## Business Case
 
