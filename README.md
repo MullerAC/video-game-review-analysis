@@ -4,6 +4,8 @@
 
 Andrew Muller
 
+![Video Demo](https://www.loom.com/share/658c27924e4c4d71a0896b5e9d60ebae)
+
 ## Business Case
 
 This goal of this project is to create a model that can predict sentiment of internet talk about video games. Specifically, it will be a neural network model trained on Steam reviews. The reviews are marked either "suggested" or "not suggested", corresponding to a results classification of "positive" or "negative". Eventually, the project will result in a website that, when supplied with a Twitter hashtag or Reddit thread, will analyze the sentiment of the related comments.
