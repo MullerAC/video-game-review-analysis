@@ -130,6 +130,6 @@ dmypy.json
 
 # other
 config.py
-glove.*
-data/processed/
+data/processed/*
+data/reviews.pkl.gz
 final_model/rnn-embeddings
