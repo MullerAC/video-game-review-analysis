@@ -1,8 +1,0 @@
-/.git
-/.ipynb_checkpoints
-/__pycache__
-/data
-/notebooks
-/visualizations
-.gitignore
-README.md
