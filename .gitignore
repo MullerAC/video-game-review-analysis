@@ -131,5 +131,5 @@ dmypy.json
 # other
 config.py
 data/processed/*
-data/reviews.pkl.gz
+data/reviews_raw.pkl.gz
 final_model/rnn-embeddings
