@@ -132,4 +132,4 @@ dmypy.json
 config.py
 data/processed/*
 data/reviews_raw.pkl.gz
-final_model/rnn-embeddings
+final_model/*
